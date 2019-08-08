@@ -1,5 +1,6 @@
 a=50;
 b=60;
-print("sum of a and b is:");
-sum=a+b;
+c=7;
+print("sum of a, b and c is:");
+sum=a+b+c;
 print(sum);
